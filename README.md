@@ -1,4 +1,4 @@
-# Simple Socket Chat Server
+# python-tcp-chat
 
 This is a TCP chat server built in Python using the standard `socket` and `threading` libraries.
 
@@ -7,18 +7,18 @@ This is a TCP chat server built in Python using the standard `socket` and `threa
 1.  **Clone the Repository:**
     Open your terminal and run this command to download the code:
     ```sh
-    git clone <your-repository-url-here>
+    git clone [https://github.com/Aaryanyd06/python-tcp-chat.git](https://github.com/Aaryanyd06/python-tcp-chat.git)
     ```
 
 2.  **Navigate to the Directory:**
     ```sh
-    cd simple-chat-server
+    cd python-tcp-chat
     ```
 
 ## How to Run the Server
 
 1.  **Run the Server:**
-    Once you are in the project folder, run the server:
+    Once you are in the `python-tcp-chat` folder, run the server:
     ```sh
     python server.py
     ```
